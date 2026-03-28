@@ -102,8 +102,8 @@ const Clients = () => {
                   SJ
                 </div>
                 <div className="text-left">
-                  <p className="font-semibold text-gray-900">Dr. Sarah Johnson</p>
-                  <p className="text-sm text-gray-600">Director, Nairobi Medical Center</p>
+                  <p className="font-semibold text-gray-900">Dr. Sarah Mwangi</p>
+                  <p className="text-sm text-gray-600">Director, Blessed Hearts Medical Center</p>
                 </div>
               </div>
             </div>
