@@ -8,6 +8,9 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'Onyd Science Limited - Innovative Medical Technology',
   description: 'Healthcare technology company specializing in medical devices, laboratory consumables, and biomedical engineering services.',
+  icons: {
+    icon: '/images/favicon.jpg',
+  },
 }
 
 export default function RootLayout({
