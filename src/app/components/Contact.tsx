@@ -48,7 +48,7 @@ const Contact = () => {
               </svg>
             </div>
             <h3 className="text-lg font-medium text-gray-900 mb-2 text-center">Email</h3>
-            <p className="text-gray-600 text-center">(Insert email)</p>
+            <p className="text-gray-600 text-center">info@onyd.co.ke</p>
           </div>
         </div>
       </div>
